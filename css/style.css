@@ -199,6 +199,10 @@ footer .footer-bottom {
   nav a#openup {
     display: none;
   }
+
+  .footer-cols_nav {
+      list-style: none;
+  }
   
   @media screen and (max-width: 580px) {
     .hide-on-small {
